@@ -15,7 +15,7 @@ Feel free to reach out:
 
 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
 
-[**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca)
+[**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca)
 
 [**Twitter**](https://twitter.com/JarettDewbury)
 
