@@ -1,6 +1,6 @@
-# Hello! My name is Jarett Dewbury 👋
+# Hello! My name is Jarett Dewbury <img  src="weblogo.png">
 
-<img  src="weblogo.png">
+
 
 My name is Jarett Dewbury and I am a **Biomedical Engineering** undergraduate at the University of Waterloo. 
 I am looking to explore a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, 
