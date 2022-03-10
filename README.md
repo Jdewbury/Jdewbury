@@ -10,8 +10,10 @@ artificial intelligence, neural engineering, software engineering, and research 
 
 <br>
 Feel free to reach out: <br>
-[**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) <br>
-[**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca) <br>
+[**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
+<br>
+[**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca)
+<br>
 [**Twitter**](https://twitter.com/JarettDewbury)
 <br>
 <br>
