@@ -10,5 +10,5 @@ artificial intelligence, neural engineering, software engineering, and research 
 
 🏒 Outside of academia, my passions focus around ice hockey, bike rides, and all things food
 
-[![Jarett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdewbury)](https://github.com/jdewbury/github-readme-stats)
+[![Jarett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdewbury)](https://github.com/jdewbury/github-readme-stats&theme=midnight-purple)
 
