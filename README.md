@@ -1,6 +1,6 @@
 # Hello! My name is Jarett Dewbury 👋
 
-<img  src="BME-Waterloo.jpg" width="300px" height="50px">
+<img  src="BME-Waterloo.jpg" width="500px" height="200px">
 
 My name is Jarett Dewbury and I am a **Biomedical Engineering** undergraduate at the University of Waterloo
 
