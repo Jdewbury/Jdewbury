@@ -1,4 +1,5 @@
-# Hello! My name is Jarett Dewbury <img  src="weblogo.png">
+<img  src="weblogo.png"> <br>
+# Hello! My name is Jarett Dewbury 
 
 
 
