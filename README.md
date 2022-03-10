@@ -9,7 +9,7 @@ artificial intelligence, neural engineering, software engineering, and research 
 🏒 Outside of academia, my passions focus around ice hockey, bike rides, and all things food
 
 <br>
-Feel free to reach out: <br>
+Feel free to reach out:
 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
 
 [**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca)
