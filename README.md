@@ -1,3 +1,8 @@
+::selection {
+  color: #8262FF;
+  background: #32373b;
+}
+
 # Hello! My name is Jarett Dewbury 
 <img src="weblogo.png" width= 60px>
 
