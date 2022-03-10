@@ -8,11 +8,11 @@ artificial intelligence, neural engineering, software engineering, and research 
 
 🏒 Outside of academia, my passions focus around ice hockey, bike rides, and all things food
 
-Feel free to reach out!
-
-[**LinkedIn**](https://www.linkedin.com/in/ivan-yu-0a84a5195/)
-
+Feel free to reach out: 
+[**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/), 
 [**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca)
+
+
 
 
 Twitter
