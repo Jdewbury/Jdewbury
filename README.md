@@ -1,4 +1,4 @@
-# Hello! My name is Jarett Dewbury <img src="weblogo.png" width= 30px margin-top= 10px>
+# Hello! My name is Jarett Dewbury <img src="weblogo.png" width=30px margin-top=100px>
 
 I am a **Biomedical Engineering** undergraduate at the University of Waterloo. 
 I am looking to explore a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, 
