@@ -11,11 +11,11 @@ artificial intelligence, neural engineering, software engineering, and research 
 <br>
 Feel free to reach out: <br>
 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
-<br>
+
 [**Jdewbury@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca)
-<br>
+
 [**Twitter**](https://twitter.com/JarettDewbury)
-<br>
+
 <br>
 
 [![Jarett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdewbury&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/jdewbury/github-readme-stats)
