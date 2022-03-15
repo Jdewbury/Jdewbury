@@ -23,5 +23,5 @@ Feel free to reach out:
 
 <br>
 
-[![Jarett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdewbury&show_icons=true&count_private=true&title_color:8262FF&icon_color:8262FF)](https://github.com/jdewbury/github-readme-stats)
+[![Jarett's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdewbury&show_icons=true&count_private=true&title_color:#8262FF&icon_color:#8262FF)](https://github.com/jdewbury/github-readme-stats)
 
