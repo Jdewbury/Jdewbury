@@ -15,7 +15,7 @@ artificial intelligence, neural engineering, software engineering, and research 
 
 Feel free to reach out:
 
-[**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca)
+<p style="color:282d31;">[**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca)</p>
 
 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
 
