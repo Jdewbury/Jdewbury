@@ -1,4 +1,4 @@
-<style font-size=40px>Hello! My name is Jarett Dewbury </style>
+<div font-size=40px>Hello! My name is Jarett Dewbury </div>
 
 <img src="Discord_logo.png" height=75px>
 
