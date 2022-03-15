@@ -12,17 +12,22 @@ artificial intelligence, neural engineering, software engineering, and research 
 
 🏒 Outside of academia, my passions focus around ice hockey, bike rides, and all things food
 
+Check me out:
+
+[**Personal Website**](https://jarettdewbury.ca/)
+
+[**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
+
+[**Twitter**](https://twitter.com/JarettDewbury)
+
+
+
 
 Feel free to reach out:
 
 [**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca) 
 
-Check me out:
-[**Website**](https://jarettdewbury.ca/)
 
-[**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 
-
-[**Twitter**](https://twitter.com/JarettDewbury)
 
 <br>
 
