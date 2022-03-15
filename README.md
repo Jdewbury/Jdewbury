@@ -1,4 +1,4 @@
-##Hello! My name is Jarett Dewbury
+Hello! My name is Jarett Dewbury
 
 <img src="Discord_logo.png" height=75px>
 
