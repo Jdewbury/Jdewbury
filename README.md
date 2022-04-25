@@ -2,15 +2,16 @@
 
 <img src="Weblogo.png" height=75px>
 
-I am a **Biomedical Engineering** undergraduate at the University of Waterloo. 
-I am looking to explore a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, 
-artificial intelligence, neural engineering, software engineering, and research exploring the intersection of these fields! 
+👋 Hello!
 
+🧬 My name is Jarett Dewbury and I am a **Biomedical Engineering** undergraduate at the University of Waterloo. I am currently exploring a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, artificial intelligence, neural engineering, signal processing, software engineering, and research exploring the intersection of these fields with medical applications! 
 
-🧠 I am currently researching and developing SSVEP-based brain computer interface models!
+🧠 Outside of academia, my passions focus around ice hockey, bike rides, and all things food.
 
+🤖 I am interning this Summer as a Medical Artificial Intelligence Research Assistant at the University of Waterloo
 
-🏒 Outside of academia, my passions focus around ice hockey, bike rides, and all things food
+🗣️ 𝗜 𝗮𝗺 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝘁𝗼 𝗱𝗶𝘀𝗰𝘂𝘀𝘀 𝗪𝗶𝗻𝘁𝗲𝗿 𝟮𝟬𝟮𝟯 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
+
 
 Check me out:
 
