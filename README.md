@@ -1,6 +1,6 @@
 # 👋 Hello! My name is Jarett Dewbury
 
-<img src="Linkedin_Ban (2).png" height=75px >
+<img src="Linkedin_Ban (2).png">
 
 🧬 I am a **Biomedical Engineering** undergraduate at the University of Waterloo. I am currently exploring a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, artificial intelligence, neural engineering, signal processing, software engineering, and research exploring the intersection of these fields with medical applications! 
 
