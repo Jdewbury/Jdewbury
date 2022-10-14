@@ -2,14 +2,7 @@
 
 <img src="Linkedin_Ban (2).png" width=100%>
 
-🧬 I am a **Biomedical Engineering** undergraduate at the University of Waterloo. I am currently exploring a variety of topics ranging from brain-machine interfaces, deep learning, machine learning, artificial intelligence, neural engineering, signal processing, software engineering, and research exploring the intersection of these fields with medical applications! 
-
-🧠 Outside of academia, my passions focus around ice hockey, bike rides, and all things food.
-
-🤖 I am interning this Summer as a Medical Artificial Intelligence Research Assistant at the University of Waterloo
-
-🗣️ 𝗜 𝗮𝗺 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝘁𝗼 𝗱𝗶𝘀𝗰𝘂𝘀𝘀 𝗪𝗶𝗻𝘁𝗲𝗿 𝟮𝟬𝟮𝟯 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
-
+I am a Biomedical Engineering undergraduate at the University of Waterloo with an interest in medical artificial intelligence — I am always looking to collaborate and work on innovative and impactful projects
 
 Check me out:
 
