@@ -1,6 +1,9 @@
-# 👋 Hello! My name is Jarett Dewbury
+# 👋
 
-I am a Biomedical Engineering undergraduate at the University of Waterloo with an interest in medical artificial intelligence — I am always looking to collaborate and work on innovative and impactful projects
+I am Jarett Dewbury, a machine learning researcher at Harvard Medical School and Massachusetts General Hospital working on semi and fully automated image processing applications for cancer segmentation and diagnosis. I am also a second-year undergraduate studying biomedical engineering at the University of Waterloo.
+
+
+I am interested in the intersection of medicine and machine learning. My current research interests include the development of transformative and novel AI-enabled tools to aid clinicians in disease diagnosis and understanding.
 
 Check me out:
 
