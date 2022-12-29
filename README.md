@@ -1,4 +1,4 @@
-# 👋
+#
 
 I am Jarett Dewbury, a machine learning researcher at Harvard Medical School and Massachusetts General Hospital working on semi and fully automated image processing applications for cancer segmentation and diagnosis. I am also a second-year undergraduate studying biomedical engineering at the University of Waterloo.
 
