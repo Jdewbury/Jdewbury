@@ -4,7 +4,7 @@ I am Jarett Dewbury, a machine learning researcher at Harvard Medical School and
 
 
 I am interested in the intersection of medicine and machine learning. My current research interests include the development of transformative and novel AI-enabled tools to aid clinicians in disease diagnosis and understanding.
-<br><br>
+<br>
 <sub>
 [**Website**](https://jarettdewbury.com/) 〳 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 〳 [**Twitter**](https://twitter.com/JarettDewbury) 〳 [**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca) 
 </sub>
