@@ -1,13 +1,4 @@
 #
-
-I am Jarett Dewbury, a second-year undergraduate studying biomedical engineering at the University of Waterloo. I am also the co-founder of WAT.ai, the University of Waterloo's artificial intelligence student design team.
-
-
-Currently, I am a machine learning researcher at Harvard Medical School and Massachusetts General Hospital working on semi and fully automated image processing applications for tissue segmentation and disease understanding.
-
-
-I am interested in the intersection of medicine and machine learning. My current research interests include the development of transformative and novel AI-enabled tools to aid clinicians in disease diagnosis and understanding.
-<br><br>
 <sub>
 [**Website**](https://jarettdewbury.com/) 〳 [**LinkedIn**](https://www.linkedin.com/in/jarett-dewbury/) 〳 [**Twitter**](https://twitter.com/JarettDewbury) 〳 [**Jdewbury@uwaterloo.ca**](mailto:jdewbury@uwaterloo.ca) 
 </sub>
