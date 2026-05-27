@@ -1,3 +1,3 @@
-I work on machine learning systems for medical imaging that account for real-world <br>
-deployment constraints, building models that generalize across data modalities, <br>
-clinical settings, and resource limitations. <br>
+I develop machine learning systems for medical imaging that extract maximum signal from <br>
+limited and heterogeneous clinical data, with the goal of expanding diagnostic capabilities <br> 
+to settings where data, scanners, and specialists are scarce. <br>
